@@ -1,6 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Nusratulloh202)
 
-
 <h1 align="center">Hi 👋, I'm Nusratulloh</h1>
 <h3 align="center">A Passionate Software Engineer Junior 🚀</h3>
 
@@ -26,8 +25,8 @@
 
 ### 🔥 My GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nusratulloh202&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nusratulloh202&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nusratulloh202&show_icons=true&theme=tokyonight&cache_seconds=86400&error_placeholder=Loading..." />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nusratulloh202&theme=tokyonight&cache_seconds=86400&error_placeholder=Loading..." />
 </p>
 
 ---
