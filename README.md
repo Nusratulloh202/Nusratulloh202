@@ -1,7 +1,6 @@
-![Coding GIF](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
-<p align="center">
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Coding GIF">
-</p>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Nusratulloh202)
+
+
 <h1 align="center">Hi 👋, I'm Nusratulloh</h1>
 <h3 align="center">A Passionate Software Engineer Junior 🚀</h3>
 
