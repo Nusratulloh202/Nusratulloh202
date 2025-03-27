@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Nusratulloh202)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Nusratulloh202)
 
 <h1 align="center">Hi 👋, I'm Nusratulloh</h1>
 <h3 align="center">A Passionate Software Engineer Junior 🚀</h3>
