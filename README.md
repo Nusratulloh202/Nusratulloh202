@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)]
+![Coding GIF](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
 <p align="center">
   <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Coding GIF">
 </p>
